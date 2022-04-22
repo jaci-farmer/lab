@@ -50,4 +50,3 @@ class Television:
 
     def __str__(self):
         return (f"TV Status: Is on = {self.__status}, Channel = {self.__channel}, Volume = {self.__volume} ")
-
